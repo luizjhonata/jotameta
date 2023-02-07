@@ -21,7 +21,11 @@ The backend of this project is build with Java, Springboot, Spring Data Jpa and 
 ## FRONTEND
 In the fronthend i used React, Typescript, CSS and HTML, also as mentionet previously was used TWILIO to send the SMS mesages.
 
+You can see the project running in the link below
+
+[JOTAMETA](https://mellifluous-pegasus-f7acad.netlify.app/)
+
 ## Autor
 Jhonata de Souza Luiz
 
-https://www.linkedin.com/in/jhonataluiz/
+[LINKEDIN](https://www.linkedin.com/in/jhonataluiz/)
